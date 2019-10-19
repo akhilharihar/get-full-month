@@ -1,6 +1,6 @@
 {
   "name": "get-full-month",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get full month from a Date object",
   "main": "index.js",
   "repository": {
