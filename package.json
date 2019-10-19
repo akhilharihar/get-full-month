@@ -1,0 +1,21 @@
+{
+  "name": "get-full-month",
+  "version": "1.0.0",
+  "description": "Get full month from a Date object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilharihar/get-full-month.git"
+  },
+  "keywords": [
+    "get full month",
+    "get month",
+    "month"
+  ],
+  "author": "Akhil Harihar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhilharihar/get-full-month/issues"
+  },
+  "homepage": "https://github.com/akhilharihar/get-full-month#readme"
+}
