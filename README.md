@@ -7,7 +7,7 @@ Get full month from a Date object
 
 ## Install
 ```
-npm install
+npm install get-full-month
 ```
 
 ## Usage
