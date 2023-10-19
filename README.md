@@ -17,6 +17,6 @@ register_full_month();
 
 
 let current_date = new Date();
-currentt_date.getFullMonth(); // => September
-currentt_date.getFullMonth(true); // => Sep.
+current_date.getFullMonth(); // => September
+current_date.getFullMonth(true); // => Sep.
 ```
